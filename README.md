@@ -1,2 +1,2 @@
 # PaintApp
-그림판 Vanilla JS
+그림판 with Vanilla JS
